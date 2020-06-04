@@ -1,8 +1,8 @@
 # MedicalStudy
 
-Reinforcement Learning paper review study
+Medical paper review study
 
-## 1st paper list
+## Medical NER and Representation
 
 Year | Paper | Authors | Links
 :---: | :---: | :---: | :---:
@@ -18,3 +18,39 @@ Year | Paper | Authors | Links
 6/15 | Model-based RL in Contextual Decision Processes: PAC bounds and Exponential Improvements over Model-free Approaches, Wen Sun et al, 2019. | Hoesung Ryu | [[paper]](https://arxiv.org/abs/1811.08540) [review] [code]
 6/22 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Salimans et al, 2017. | Chanhyuk Park | [[paper]](https://arxiv.org/abs/1703.03864) [review] [code]
 6/22 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol Jang | [[paper]](https://arxiv.org/abs/1806.10293) [review] [code]
+
+## Disease Diagnosis or ICD Prediction
+
+Year | Paper | Authors | Links
+:---: | :---: | :---: | :---:
+5/11 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | Ingyun Ahn | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [[review]](./1st/200511%20-%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning%2C%20Mnih%20et%20al%2C%202013.pdf) [code]
+5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./1st/200511%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf) [code]
+
+## Drug Prediction
+
+Year | Paper | Authors | Links
+:---: | :---: | :---: | :---:
+5/11 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | Ingyun Ahn | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [[review]](./1st/200511%20-%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning%2C%20Mnih%20et%20al%2C%202013.pdf) [code]
+5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./1st/200511%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf) [code]
+
+## Medical Dialogue
+
+Year | Paper | Authors | Links
+:---: | :---: | :---: | :---:
+5/11 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | Ingyun Ahn | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [[review]](./1st/200511%20-%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning%2C%20Mnih%20et%20al%2C%202013.pdf) [code]
+5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./1st/200511%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf) [code]
+
+## Medical QA
+
+Year | Paper | Authors | Links
+:---: | :---: | :---: | :---:
+5/11 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | Ingyun Ahn | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [[review]](./1st/200511%20-%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning%2C%20Mnih%20et%20al%2C%202013.pdf) [code]
+5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./1st/200511%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf) [code]
+
+## Others
+
+Year | Paper | Authors | Links
+:---: | :---: | :---: | :---:
+5/11 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | Ingyun Ahn | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [[review]](./1st/200511%20-%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning%2C%20Mnih%20et%20al%2C%202013.pdf) [code]
+5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./1st/200511%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf) [code]
+

@@ -1,4 +1,4 @@
-## Medical related tasks 
+## Medical related study
 
 Paper | Authors | Conference | Links
 :-: | :-: | :-: | :-:

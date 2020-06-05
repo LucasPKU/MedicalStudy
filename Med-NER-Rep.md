@@ -1,4 +1,4 @@
-## Medical QA
+## Medical Entity Recognition and Representation
 
 Paper | Authors | Conference | Links
 :---: | :---: | :---: | :---:

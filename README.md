@@ -1,4 +1,4 @@
-# MedicalStudy
+# Medical Information Processing Paper List
 
 
 
